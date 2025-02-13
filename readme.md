@@ -7,6 +7,13 @@ Date: 5/31/2024
 
 The purpose of this tool is to help automate some of the math heavy calculations used in typical market watching strategies.
 
+#### Easily Scrape stocks to use:
+[![asciicast](https://asciinema.org/a/OvVLXaUNB3QYcjCwdI8YU3hnQ.svg)](https://asciinema.org/a/OvVLXaUNB3QYcjCwdI8YU3hnQ)
+
+#### Watch Prices Live:
+[![asciicast](https://asciinema.org/a/wDMyDm4DedZcoyMKWAJPDhZdh.svg)](https://asciinema.org/a/wDMyDm4DedZcoyMKWAJPDhZdh)
+
+
 ## Strategy
 
 The workflow is as below:
